@@ -1,7 +1,7 @@
 <div align="center">
 
 
- ## Olá 👋! Eu sou o Daniel, um dev iniciante brasileiro apaixonado por tecnologia!  
+ ## Olá 👋! Eu sou o Daniel, também conhecido como Peridan um dev iniciante brasileiro apaixonado por tecnologia!  
   <br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.  
   <br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
 
