@@ -1,10 +1,10 @@
 <div align="center">
 
+## Olá 👋! Eu sou o Daniel, também conhecido como Peridan, um dev iniciante brasileiro apaixonado por tecnologia!
+<br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.
+<br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
 
- ## Olá 👋! Eu sou o Daniel, também conhecido como Peridan um dev iniciante brasileiro apaixonado por tecnologia!  
-  <br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.  
-  <br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
-
+</div>
 
 ---
 
@@ -19,21 +19,21 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br>
       <strong>Exercícios HTML e CSS</strong><br>
-      <a href="https://github.com/DanielSatelPereira/exercicios-html-css-faculdade">
+      <a href="https://github.com/DanielSatelPereira/exercicios-html-css-faculdade" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br>
       <strong>Site Vitrine</strong><br>
-      <a href="https://github.com/DanielSatelPereira/site-vitrine-html-css">
+      <a href="https://github.com/DanielSatelPereira/site-vitrine-html-css" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br>
       <strong>AlfaPlus (Responsivo)</strong><br>
-      <a href="https://github.com/DanielSatelPereira/alfaplus-1balfa24">
+      <a href="https://github.com/DanielSatelPereira/alfaplus-1balfa24" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
@@ -49,21 +49,21 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /><br>
       <strong>AlfaSino</strong><br>
-      <a href="https://github.com/DanielSatelPereira/alfasino">
+      <a href="https://github.com/DanielSatelPereira/alfasino" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /><br>
       <strong>E-Script Website</strong><br>
-      <a href="https://github.com/DanielSatelPereira/e-script-website">
+      <a href="https://github.com/DanielSatelPereira/e-script-website" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" /><br>
       <strong>Exercícios do Período</strong><br>
-      <a href="https://github.com/DanielSatelPereira/ferramentas-front-end-2024">
+      <a href="https://github.com/DanielSatelPereira/ferramentas-front-end-2024" title="Abrir repositório em nova guia">
         <img src="https://img.shields.io/badge/Acessar_Repositório-1f2937?style=flat-square&color=%23f97316&labelColor=1f2937" />
       </a>
     </td>
@@ -72,19 +72,52 @@
 
 <br>
 
-#### 🧪 2º Período — Desenvolvimento Web e Java (em andamento)
+#### 🧪 2º Período — Desenvolvimento Web (JS e PHP)
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /><br>
-      <strong>Desenvolvimento Web (JS + PHP)</strong><br>
-      <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br>
+      <strong>Login Page</strong><br>
+      <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/javascript/login-page-js" title="Abrir projeto em nova guia">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-1f2937?style=flat-square&color=%23facc15&labelColor=1f2937" />
+      </a>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br>
+      <strong>Quiz Interativo</strong><br>
+      <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/javascript/quiz-app-js" title="Abrir projeto em nova guia">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-1f2937?style=flat-square&color=%23facc15&labelColor=1f2937" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br>
+      <strong>Lista de Tarefas</strong><br>
+      <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/javascript/todo-list-exploration-js" title="Abrir projeto em nova guia">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-1f2937?style=flat-square&color=%23facc15&labelColor=1f2937" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /><br>
+      <strong>Clone Americanas (PHP)</strong><br>
+      <a href="https://github.com/DanielSatelPereira/projetos-web-2periodo/tree/main/php/americanas-clone-php" title="Abrir projeto em nova guia">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-1f2937?style=flat-square&color=%23facc15&labelColor=1f2937" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+#### ☕ 2º Período — Java (em andamento)
+
+<table>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
-      <strong>Java - 2º Período</strong><br>
+      <strong>Projetos Java</strong><br>
       <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
     </td>
   </tr>
@@ -92,8 +125,8 @@
 
 </div>
 
----
 
+---
 ### 🛠️ Tecnologias que uso
 
 <div>
