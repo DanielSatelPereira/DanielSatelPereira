@@ -4,8 +4,6 @@
 <br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.
 <br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
 
-
-
 ---
 
 ### 📚 Projetos Acadêmicos em Destaque
@@ -190,6 +188,35 @@
 </table>
 </div>
 
+<div align="center">
+
+### 📌 Projetos Complementares
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" /><br>
+        <strong>Letramento Digital para a Terceira Idade</strong><br>
+        <a href="https://github.com/DanielSatelPereira/letramento-digital-3idade" title="Abrir projeto em nova guia">
+          <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=%23f43f5e&labelColor=1f2937" />
+        </a><br>
+        <sub>Projeto desenvolvido em conjunto com colegas da faculdade,<br>
+         com destaque para a colaboração de <a href="https://github.com/VilleNunes">Ville</a>.</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /><br>
+        <strong>Repositórios de Estudo</strong><br>
+        <a href="https://github.com/DanielSatelPereira?tab=repositories&q=curso&type=source" title="Abrir lista de estudos">
+          <img src="https://img.shields.io/badge/Ver_Repositórios-1f2937?style=flat-square&color=%238b5cf6&labelColor=1f2937" />
+        </a><br>
+        <sub>Conteúdos práticos criados durante cursos</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
