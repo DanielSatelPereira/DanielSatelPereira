@@ -252,11 +252,11 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielSatelPereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="GitHub stats" />
   
-  <img src="https://i.imgflip.com/9z5h59.gif" height="150" alt="fun gif" style="border: 2px solid #ffffff; border-radius: 8px;" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielSatelPereira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Top languages" />
 </div>
 
+  <img src="https://i.imgflip.com/9z5h59.gif" alt="fun gif" style="border: 2px solid #ffffff; border-radius: 8px; width: 250px;" />
+  
 ---
 
 ### 📫 Como me encontrar
