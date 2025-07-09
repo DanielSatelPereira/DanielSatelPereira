@@ -4,14 +4,16 @@
 <br>🧠 Estudo Sistemas para Internet na UniALFA e adoro criar interfaces bonitas e funcionais.
 <br>🎯 Estou em busca da minha primeira experiência profissional e sigo evoluindo todos os dias!
 
-</div>
+
 
 ---
 
 ### 📚 Projetos Acadêmicos em Destaque
+</div>
 
 <div align="center">
 
+  
 #### 🧪 1º Período — Desenvolvimento Web
 
 <table>
@@ -111,22 +113,88 @@
 
 <br>
 
-#### ☕ 2º Período — Java (em andamento)
+#### ☕ 2º Período — Java
 
 <table>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
-      <strong>Projetos Java</strong><br>
-      <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
+      <strong>Sistema Clientes & Doações</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/tree/main/destaques/destaque-atividade-06.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Little Tiger Evolution</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/tree/main/destaques/destaque-atividade-09.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Verificação de Números Primos</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/blob/main/destaques/destaque-exercicio06.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Calculadora Simples</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/blob/main/destaques/destaque-exercicio04.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Senha com Tentativas</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/blob/main/destaques/destaque-exercicio11.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Locadora (CRUD)</strong><br>
+      <a href="https://github.com/DanielSatelPereira/java-2-periodo/tree/main/destaques/destaque-sistema-locadora.md" title="Abrir destaque no GitHub">
+        <img src="https://img.shields.io/badge/Ver_Destaque-1f2937?style=flat-square&color=%239b5de5&labelColor=1f2937" />
+      </a>
     </td>
   </tr>
 </table>
 
+
+<br>
+
+#### 🧱 3º Período — Projetos em Desenvolvimento
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /><br>
+      <strong>PHP (POO)</strong><br>
+      <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br>
+      <strong>Java (POO + Swing)</strong><br>
+      <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /><br>
+      <strong>Node.js (API REST)</strong><br>
+      <img src="https://img.shields.io/badge/Em_Construção-1f2937?style=flat-square&color=gray&labelColor=1f2937" />
+    </td>
+  </tr>
+</table>
 </div>
 
 
 ---
+
+<div align="center">
+
 ### 🛠️ Tecnologias que uso
 
 <div>
@@ -184,7 +252,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielSatelPereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="GitHub stats" />
   
-  <img src="https://i.imgflip.com/9z5h59.gif" height="150" alt="fun gif" style="border: 2px solid #ffffff; border-radius: 8px; width: 100px;" />
+  <img src="https://i.imgflip.com/9z5h59.gif" height="150" alt="fun gif" style="border: 2px solid #ffffff; border-radius: 8px;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielSatelPereira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="Top languages" />
 </div>
